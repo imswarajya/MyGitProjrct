@@ -1,1 +1,7 @@
 This is file 1 to write helloworld.
+
+class MyClass{
+	public static void main(){
+		sysout("Welcome to GIT");
+	}
+}
