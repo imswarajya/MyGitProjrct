@@ -1,8 +1,8 @@
 This is file 1 to write helloworld.
 
 class MyClass{
-	myMethod(){
-		System.out.println("Inside my method");
+	private myMethod(String str){
+		System.out.println(str);
 	}
 
 	public static void main(String args[]){
