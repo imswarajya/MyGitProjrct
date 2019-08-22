@@ -7,5 +7,7 @@ class MyClass{
 
 	public static void main(String args[]){
 		System.out.println("Welcome to GIT");
+		MyClass obj = new MyClass();
+		obj.myMethod("ABC");
 	}
 }
